@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello! My name is Albert Isern Alvarez, and I am a software developer, CEO, and founder of Kaana and co-founder of FairCoin. I live near Barcelona, Spain 🇪🇸, and I have a passion for using technology to make a positive impact on people's lives.
+Hello! My name is Albert Isern Alvarez, and I am a software developer, CEO, and founder of Oxy and co-founder of FairCoin. I live near Barcelona, Spain 🇪🇸, and I have a passion for using technology to make a positive impact on people's lives.
 
 ## About Me
 
